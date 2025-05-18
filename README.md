@@ -1,2 +1,2 @@
 # webflyx
-Git and Github practice (rebasng, merging, forking, etc...)
+Git and Github practice (rebasing, merging, forking, etc...)
